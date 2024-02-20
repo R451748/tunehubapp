@@ -1,0 +1,29 @@
+ body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #D8BFD8; /* Optional: Set a background color */
+    }
+
+    form {
+      width: 50%; /* Adjust the width as needed */
+      padding: 20px;
+      background-color: white; /* Optional: Set a background color for the form */
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a box shadow for a subtle effect */
+    }
+
+    label, input {
+      margin-bottom: 10px;
+    }
+
+    input[type="submit"] {
+      background-color: #007BFF; /* Optional: Set a background color for the submit button */
+      color: white;
+      padding: 10px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+    }

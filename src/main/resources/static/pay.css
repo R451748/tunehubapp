@@ -1,0 +1,21 @@
+ body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 30vh;
+        margin: 0;
+         background: url('https://img.freepik.com/premium-vector/financial-technology-paying-products-by-credit-card-through-card-swipe-machine-credit-card_111088-1131.jpg?size=626&ext=jpg&ga=GA1.1.273803762.1704618409&semt=ais'); 
+          background-size: cover;
+          color: black;
+    }
+
+    div {
+        text-align: center;
+    }
+    p{
+    font-size:20px;
+    }
+    button{
+    background-color:black;
+    color:white;
+    }

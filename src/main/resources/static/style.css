@@ -1,0 +1,13 @@
+   body {
+  text-align: center;
+  background-image: url("https://wallpapercave.com/wp/wp7293870.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Remove default margin to ensure the image covers the entire window */
+}
+
+h1, a {
+  margin-top: 50px;
+  color: black;
+}
+   
